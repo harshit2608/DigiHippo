@@ -1,7 +1,7 @@
-import { Link } from "lucide-react"
-import MaxWidthWrapper from "./MaxWidthWrapper"
-import { Icons } from "./Icons"
-import NavItems from "./NavItems"
+import { Link } from 'lucide-react'
+import MaxWidthWrapper from './MaxWidthWrapper'
+import { Icons } from './Icons'
+import NavItems from './NavItems'
 
 const Navbar = () => {
   return (
@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
         </MaxWidthWrapper>
       </header>
-    </div >
+    </div>
   )
 }
 
